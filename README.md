@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajwal9044
-- 👀 I’m interested in Wen development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - prajwalpawar366@gmail.com
